@@ -15,7 +15,7 @@ import amith.spring.security.entity.Student;
 public class StudentController 
 {
 	public static List<Student> students = Arrays.asList(
-			new Student(1,"Amith"),
+			new Student(1,"Amith.G"),
 			new Student(2,"Harsh"),
 			new Student(3,"Simmy")
 			);
