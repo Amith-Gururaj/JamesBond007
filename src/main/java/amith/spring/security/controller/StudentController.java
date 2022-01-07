@@ -16,7 +16,7 @@ public class StudentController
 {
 	public static List<Student> students = Arrays.asList(
 			new Student(1,"Amith"),
-			new Student(2,"Harish"),
+			new Student(2,"Harsh"),
 			new Student(3,"Simran")
 			);
 	
